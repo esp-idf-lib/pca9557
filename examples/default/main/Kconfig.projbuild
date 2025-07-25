@@ -14,5 +14,5 @@ menu "Example configuration"
             TCA9534 has three address pins (`A0`, `A1` and `A2`). The address
             starts from `0x20` (all address pins are grounded)
 
-    rsource "../../../../devtools/Kconfig.i2c"
+    rsource "../../../Kconfig.i2c"
 endmenu
