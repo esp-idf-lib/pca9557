@@ -11,7 +11,7 @@ Driver for PCA9536/PCA9537/PCA9557/TCA9534 remote 4/8-bit I/O expanders for I2C-
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/pca9557^1.0.0
+idf.py add-dependency esp-idf-lib/pca9557^1.0.0
 ```
 
 ## Support
