@@ -55,7 +55,8 @@ extern "C" {
 /**
  * Pin modes (directions)
  */
-typedef enum {
+typedef enum
+{
     PCA9557_MODE_OUTPUT = 0,
     PCA9557_MODE_INPUT,
 } pca9557_mode_t;
